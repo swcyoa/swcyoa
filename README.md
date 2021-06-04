@@ -1,6 +1,6 @@
 ### Hello!
-#Currently making a CYOA for Star Wars roleplaying.
-#It's open source on my github pages! swcyoa.github.io
+# Currently making a CYOA for Star Wars roleplaying.
+# It's open source on my github pages! swcyoa.github.io
 <!--
 **swcyoa/swcyoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
